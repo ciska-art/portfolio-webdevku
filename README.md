@@ -1,10 +1,10 @@
-# 👋 Portofolio Pribadi — Franciska Febriyanti
+# 👋 Portofolio Pribadi — Franciska 
 
 **Personal Portfolio Website | HTML5 • CSS3 | Web Development Learner**
 
-Selamat datang di repository portofolio pribadi saya! Repository ini berisi website portofolio yang saya bangun sebagai bagian dari perjalanan belajar di bidang Rekayasa Perangkat Lunak (RPL), khususnya pengembangan website (*web development*).
+Selamat datang di repository portofolio pribadi saya! Repository ini berisi website portofolio yang saya bangun sebagai bagian dari perjalanan belajar di bidang Rekayasa Perangkat Lunak (RPL) di SMK (STN) Turen, khususnya pengembangan website (*web development*).
 
-Saya adalah siswa RPL yang sedang mempelajari dasar-dasar HTML5 dan CSS3. Melalui proyek ini, saya ingin mengembangkan keterampilan pemrograman, meningkatkan kreativitas, dan membangun pengalaman untuk mempersiapkan diri menghadapi magang atau Praktik Kerja Lapangan (PKL).
+Saya adalah siswa RPL kelas 11 yang sedang mempelajari dasar-dasar HTML5 dan CSS3. Melalui proyek ini, saya ingin mengembangkan keterampilan pemrograman, meningkatkan kreativitas, dan membangun pengalaman untuk mempersiapkan diri menghadapi magang atau Praktik Kerja Lapangan (PKL).
 
 ## 🌐 Live Website
 
